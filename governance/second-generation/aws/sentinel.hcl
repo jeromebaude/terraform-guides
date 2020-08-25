@@ -23,7 +23,7 @@ policy "restrict-db-instance-engines" {
 }
 
 policy "restrict-ec2-instance-type" {
-    enforcement_level = "soft-mandatory"
+    enforcement_level = "advisory"
 }
 
 policy "restrict-ingress-sg-rule-cidr-blocks" {
