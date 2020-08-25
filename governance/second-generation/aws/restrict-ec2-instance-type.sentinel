@@ -87,7 +87,6 @@ validate_attribute_in_list = func(type, attribute, allowed_values) {
 allowed_types = [
   "t2.small",
   "t2.medium",
-  "t3.nano",
   "t2.large",
 ]
 
